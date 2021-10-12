@@ -43,3 +43,7 @@ android:textColor="@color/black"
 ```
 val color: Int = resources.getColor(R.color.ColorDefaultNote);
 ```
+
+***
+**<div align="center">Resources : </div>**
+    [Android Documentation : Color Resources] (https://developer.android.com/guide/topics/resources/color-list-resource)
