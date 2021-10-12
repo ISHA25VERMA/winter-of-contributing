@@ -49,4 +49,4 @@ val color: Int = resources.getColor(R.color.ColorDefaultNote);
 [Android Documentation : Color Resources](https://developer.android.com/guide/topics/resources/color-list-resource)
 ***
 
-**Author : ** [@isha25verma](https://github.com/ISHA25VERMA)
+**Author :** [@isha25verma](https://github.com/ISHA25VERMA)
