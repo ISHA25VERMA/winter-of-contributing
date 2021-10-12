@@ -45,5 +45,5 @@ val color: Int = resources.getColor(R.color.ColorDefaultNote);
 ```
 
 ***
-**<div align="center">Resources : </div>**
+## Resources
     [Android Documentation : Color Resources] (https://developer.android.com/guide/topics/resources/color-list-resource)
